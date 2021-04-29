@@ -1,0 +1,28 @@
+Modulo 1
+
+Ejercicio 4  (en grupo)  		28-04-2021
+
+ 
+
+1.- Variables
+String email
+String contraseña
+List Productos
+Int Precios
+Int Cantidad disponible
+
+2.- Constante IVA
+int Despacho
+int Subtotal
+int Total
+
+3.- Entrada: Productos, precio, email, contraseña, precios, cantidad_disponible, IVA, despacho
+
+4.- Proceso:
+- Ingresar con un usuario registrado
+- Seleccionar los productos de interés
+- Calcular el subtotal de la compra Subtotal = SUMA(Producto * Cantidad)
+- Aceptar el subtotal de la compra
+- Calcular el total de la compra Total = ( Subtotal * IVA ) + Despacho
+
+5.- Salida: Total
