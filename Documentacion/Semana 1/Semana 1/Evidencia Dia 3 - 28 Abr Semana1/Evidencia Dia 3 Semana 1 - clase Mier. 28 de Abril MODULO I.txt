@@ -1,0 +1,68 @@
+
+Modulo 1
+
+Ejercicio 3   (individual)           28-04-2021
+
+
+
+
+a.- ALGORITMO
+
+Entrada: 
+Cantidad de litros
+Cantidad de km recorridos
+Km recorridos = Km 1 – Km 2
+
+Proceso:
+Km recorridos / litros consumidos
+
+Salida:
+Rendimiento en Km / Lt. Recorridos
+
+
+b.- VARIABLES y CONSTANTES
+
+1.- Variables
+* Litros
+* Kilómetros
+
+2.- Constantes
+* No identifique ninguna constante
+
+
+c.- TIPOS DE DATOS DE CADA VARIABLE
+
+1.- Distancia: cantidad de Kilómetros avanzados (Dato int -float)
+2.- Combustible: cantidad de Litros usados (Dato int -float)
+3.- Rendimiento: Distancia/Combustible (Dato int-Float)
+
+Ejercicio 4  (en grupo)  		28-04-2021
+
+
+
+1.- Variables
+String email
+String contraseña
+List Productos
+Int Precios
+Int Cantidad disponible
+
+2.- Constante IVA
+int Despacho
+int Subtotal
+int Total
+
+3.- Entrada: Productos, precio, email, contraseña, precios, cantidad_disponible, IVA, despacho
+
+4.- Proceso:
+- Ingresar con un usuario registrado
+- Seleccionar los productos de interés
+- Calcular el subtotal de la compra Subtotal = SUMA(Producto * Cantidad)
+- Aceptar el subtotal de la compra
+- Calcular el total de la compra Total = ( Subtotal * IVA ) + Despacho
+
+5.- Salida: Total
+
+Página 2 de 2
+
+
