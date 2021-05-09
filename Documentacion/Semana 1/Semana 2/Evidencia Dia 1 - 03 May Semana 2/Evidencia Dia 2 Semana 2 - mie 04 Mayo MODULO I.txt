@@ -1,0 +1,22 @@
+Martes 04 de Abril 2021
+
+
+Los procedimientos y funciones son unidades de programas diseñados para ejecutar un a tarea específica. Por ejemplo, los procedimientos predefinidos LEER y ESCRIBIR están diseñados para realizar operaciones de entrada y salida de datos de un programa.
+Vamos a crear un Procedimiento que subraye con guiones. Primero con tres guiones, después con cuatro guiones y finalmente con cinco guiones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Página 2 de 2
+
+
