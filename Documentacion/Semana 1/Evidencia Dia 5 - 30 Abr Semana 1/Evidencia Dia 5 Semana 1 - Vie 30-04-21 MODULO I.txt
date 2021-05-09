@@ -1,38 +1,0 @@
-
-Modulo 1
-
-Ejercicio 1 (Individual)  		Viernes 30-04-2021
-
-
-
-
-1.- Hoy es Viernes y mañana Sábado
-2.- Dos + dos no suma cinco, suma cuatro
-3.- Mañana es feriado, es el día del trabajador
-4.- Antes del 3 siempre está el 2
-5.- Una bicicleta siempre tiene dos ruedas
-6.- todo lo que sube no siempre baja.
-
-
-
-
-
-
-
-
-
-
-
-
-Ejercicio 2 (Grupal)  	
-
-
-
-
-123456A < b and c < d(A + c) > b or d > aNot(d<a and c>b)1 si y solo si 3Si 2 entonces 4Si 3 entonces 12 < 5 and 5 < -10(2+5) > 7 or -10 > 2-10 > 2 and 5 < 7FFVFVV
-
-p ? qVVVVFFFVFFFV
-p ? qVVVVFFFVVFFV
-Página 2 de 2
-
-
