@@ -1,0 +1,22 @@
+Planificación Proyecto Java  AcuClass
+Grupo N°2
+
+12 al 14 de mayo:  Diagramas de flujo
+15 al 18 de mayo:  Confección de diagrama de clases
+19 al 22 de mayo:  Creación de clases, objetos y métodos constructores
+24 al 25 de mayo:  Detección de herencia y Polimorfismo
+26 al 28 de mayo:  Funcionalidades del sistema
+29 al 31 de mayo:  Diseño de pruebas unitarias
+01 al 03 de junio: Implementación de pruebas unitarias
+04 al 07 de junio: corrección de fallas de la app.
+
+
+
+Integrantes:
+
+Tania Torres
+Yorch Sepulveda
+Felipe 
+Nicolas Castillo
+Sebastian Freire
+Benjamín Ortiz

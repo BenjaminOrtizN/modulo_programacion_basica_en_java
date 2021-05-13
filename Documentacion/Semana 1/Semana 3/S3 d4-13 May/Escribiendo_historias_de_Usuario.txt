@@ -1,0 +1,44 @@
+Metodologia Grupo 2 - Proyecto JAVA
+
+
+Escribiendo Historias de Usuario
+
+Las historias de usuario son parte de un enfoque ágil que ayuda a cambiar el enfoque de escribir sobre los requisitos a hablar sobre ellos. Todas las historias de usuario ágiles incluyen una oración escrita o dos y, más importante aún, una serie de conversaciones sobre la funcionalidad deseada.
+¿QUÉ ES UNA HISTORIA DE USUARIO?
+Las historias de usuario son descripciones cortas y simples de una característica contada desde la perspectiva de la persona que desea la nueva capacidad, generalmente un usuario o cliente del sistema. Por lo general, siguen una plantilla simple:
+•	Como <Usuario>
+•	Quiero <algún objetivo>
+•	Para que <motivo>
+Las historias de los usuario a menudo se escriben en fichas o notas adhesivas, se almacenan en una caja y se organizan en paredes o mesas para facilitar la planificación y el debate. Como tal, cambian fuertemente el enfoque de escribir sobre las características a discutir. De hecho, estas discusiones son más importantes que cualquier texto que se escriba.
+EJEMPLOS DE HISTORIAS DE USUARIO
+Uno de los beneficios de las historias de usuario ágiles es que se pueden escribir con distintos niveles de detalle. Podemos escribir una historia de usuario para cubrir grandes cantidades de funcionalidad. Estas grandes historias de usuario generalmente se conocen como épicas. Aquí hay un ejemplo épico de historia de usuario ágil de un producto de copia de seguridad de escritorio:
+Como usuario, quiero hacer una copia de seguridad de todo mi disco duro.
+¿QUÉ ES UNA HISTORIA DE USUARIO ÉPICA?
+Debido a que una épica en general es una historia de usuario demasiado grande para que un equipo ágil la complete en una iteración, se divide en varias historias de usuario más pequeñas antes de que se trabaje en ella. La épica anterior podría dividirse en docenas (o posiblemente cientos), incluidos estos dos:
+•	Como usuario de poder, quiero especificar archivos o carpetas para realizar copias de seguridad en función del tamaño del archivo, la fecha de creación y la fecha de modificación.
+•	Como usuario, quiero indicar carpetas que no deben respaldarse para que mi unidad de respaldo no esté llena de cosas que no necesito guardar.
+
+¿CÓMO SE AGREGAN LOS DETALLES A LAS HISTORIAS DE LOS USUARIO?
+El detalle se puede agregar a las historias de usuario de dos maneras: 
+•	Al dividir una historia de usuario en historias de usuarios múltiples y más pequeñas
+•	Al agregar "Criterios de Aceptación".
+Cuando una historia relativamente grande se divide en historias de usuario ágiles y múltiples, es natural suponer que se han agregado detalles. Después de todo, se ha escrito más.
+¿QUE ES EL CRITERIO DE ACEPTACIÓN?
+Los criterios de aceptación son simplemente una prueba de alto nivel que será cierta después de que se complete la historia del usuario ágil. Considere lo siguiente como otro ejemplo de historia de usuario ágil:
+Como vicepresidente de marketing, quiero seleccionar una temporada de vacaciones para revisar el rendimiento de campañas publicitarias pasadas para poder identificar las rentables.
+El detalle podría agregarse a ese ejemplo de historia de usuario al agregar los siguientes criterios de aceptación:
+•	Asegurarse de que funcione con las principales fiestas minoristas: Navidad, Pascua, Día de la Madre, Día del Padre, Día del Trabajo, Año Nuevo.
+•	Las temporadas de vacaciones se pueden establecer de una fiesta a otra (como Día de Acción de Gracias a Navidad).
+•	Las temporadas de vacaciones se pueden establecer en un número de días antes de las vacaciones.
+¿QUIÉN ESCRIBE HISTORIAS DE USUARIO?
+Cualquiera puede escribir historias de usuario. Es responsabilidad del Product Owner asegurarse de que exista una Product Backlog actualizado y priorizado de historias de usuario ágiles, pero eso no significa que el Product Owner es quien los escribe. El transcurso de un buen proyecto ágil, debe contar con historia de usuario escritos por cada miembro del equipo.
+Además, ten en cuenta que quién escribe una historia de usuario es mucho menos importante que quién está involucrado en las discusiones de la misma.
+
+¿CUÁNDO SE ESCRIBEN LAS HISTORIAS DE USUARIO?
+Las historias de usuario se escriben en todo el proyecto ágil. Por lo general, se lleva a cabo un taller de redacción de historias de usuario cerca del inicio del proyecto ágil. Todos en el equipo participan con el objetivo de crear un Product Backlog que describa por completo la funcionalidad que se agregará durante el transcurso del proyecto o un ciclo de lanzamiento de tres a seis meses.
+Algunas de estas historias de usuario ágiles serán, sin duda, épicas. Las épicas se descompondrán más tarde en historias más pequeñas que caben más fácilmente en una sola iteración. Además, las historias nuevas se pueden escribir y agregar al Product Babklog en cualquier momento y por cualquier persona.
+¿LAS HISTORIAS DE USUARIO REEMPLAZAN UN DOCUMENTO DE REQUISITOS?
+Los proyectos ágiles, especialmente los de Scrum, usan un Product Backlog, que es una lista priorizada de la funcionalidad que se desarrollará en un producto o servicio. Aunque el Product Backlog pueden ser lo que el equipo desee, las historias de los usuario han surgido como la mejor y más popular forma de Product Backlog.
+UN PRODUCT BACKLOG ES UNA LISTA PRIORIZADA DE LA FUNCIONALIDAD QUE SE DESARROLLARÁ EN UN PRODUCTO O SERVICIO
+Si bien el Product Backlog puede considerarse como un reemplazo del documento de requisitos de un proyecto tradicional, es importante recordar que la parte escrita de una historia de usuario ágil ("Como usuario, quiero ...") está incompleta hasta que las discusiones sobre esa historia ocurren.
+A menudo es mejor pensar en la parte escrita como un indicador del requisito real. Las historias de usuario pueden apuntar a un diagrama que representa un flujo de trabajo, una hoja de cálculo que muestra cómo realizar un cálculo o cualquier otro artefacto que el propietario o equipo del producto desee.

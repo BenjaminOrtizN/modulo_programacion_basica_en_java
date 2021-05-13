@@ -1,0 +1,57 @@
+La metodología XP se utiliza principalmente para proyectos de desarrollo de software, siendo uno de los muchos tipos de metodologías Agile. Con ellas, vamos construyendo un producto muy ajustado a los requerimientos del cliente. Unas especificaciones que van variando a lo largo del desarrollo del producto.
+Así que, si estás pensando en aplicar métodos que te permitan precisamente ser lo más flexible a los contratiempos y cambios de tus proyectos, te explicamos a continuación cómo te puede ayudar esta metodología de programación Extrema XP. Conoce así sus fases y entiende su funcionamiento a través del siguiente esquema.
+ ¿QUÉ ES LA METODOLOGÍA XP?
+ La metodología XP es un conjunto de técnicas que dan agilidad y flexibilidad en la gestión de proyectos. También es conocida como Programación Extrema (Extreme Programming) y se centra crear un producto según los requisitos exactos del cliente. De ahí, que le involucre al máximo durante el método de gestión del desarrollo del producto.
+La primera vez que oímos este tipo de metodología fue a través del libro Extreme Programming Explained: Embrace Change (1999), escrito por el ingeniero de software Kent Beck.
+El uso de esta metodología supone, para muchos teóricos, una aproximación a la calidad óptima del producto. Pues durante el ciclo de vida del software, ocurren cambios naturales. Es más, cuanto más cambios, puede que más cerca estemos del mejor resultado que espera nuestro cliente. Por eso, este cambio constante en el proyecto se llega a considerar como favorable. Y si podemos aplicar una manera dinámica de gestionarlos, mejor. Esta forma es conocida como metodología XP.
+ 
+CARACTERÍSTICAS DE LA METODOLOGÍA XP
+* Comunicación constante entre el cliente y el equipo de desarrollo.
+* Respuesta rápida a los cambios constantes.
+* La planificación es abierta con un cronograma de actividades flexible.
+* El software que funciona está por encima de cualquier otra documentación.
+* Los requisito del cliente y el trabajo del equipo del proyecto son los principales factores de éxito del mismo.
+ DIFERENCIA ENTRE METODOLOGÍA XP Y ÁGIL
+ Esta metodología XP está dentro de las denominadas metodologías ágiles. Sin embargo, tiene sus peculiaridades.
+Pues al mismo tiempo que la metodología Agile recoge las buenas prácticas de un marco de trabajo específico. En ella, hay unos roles de equipo definidos y unas iteraciones que se van repitiendo cada semana o 3-5 semanas.
+La metodología XP se centra en la comunicación con todos los involucrados en el proyectos, así como la reutilización del código ya desarrollado y la realimentación.
+ METODOLOGÍA DE PROGRAMACIÓN EXTREMA XP: EL EQUIPO
+ Como toda metodología Agile, como la metodología SAFe para grandes empresas, esta metodología de Programación Extrema XP tiene su equipo definido.
+ Lista del equipo XP:
+* EL CLIENTE EJERCE ASÍ SU RESPONSABILIDAD
+Los clientes son los responsables de definir los objetivos del proyecto, así como de conducir su gestión. Marcan las necesidades y las prioridades en el proyecto.
+* LOS PROGRAMADORES Y SU MARCO DE ACCIÓN
+Como especialistas en las actividades que ayudarán a cumplir los objetivos, los programadores serán los encargados de delimitar duraciones y estimar tiempos. Por lo que planificarán el proyecto, con respecto a los requisitos acordados con los clientes.
+* LOS TESTERS AMPLÍAN SU ROL EN LA XP
+El Tester o encargado de Pruebas amplía su marco de ejecución, pues su comunicación con el cliente será vital para alinear resultados con requisitos estimados.
+* EL TRACKER O ENCARGADO DE SEGUIMIENTO
+Su objetivo será que en todo momento haya un control y un por qué se realiza cada cosa. También la comunicación y relación constante con el cliente es clave. Definirá los hitos o puntos de control en la planificación, en función de los objetivos del cliente y las estimaciones de tiempos de ejecución de tareas del equipo de programadores.
+* EL COACH Y SU LABOR CLAVE
+Los Coach realizan una tarea fundamental: el asesoramiento y orientación continuo tanto para el equipo de trabajo como para los clientes. Son la guía del proyecto, para que todos sepan bien qué, cómo y cuándo hacerlo.
+* EL MANAGER XP RESPONDE ASÍ A ESTE MÉTODO
+El responsable de coordinas comunicaciones entre las distintas partes, ofrecer y gestionar los recursos necesarios. De tener una idea general del funcionamiento del proyecto y su estado en todo momento.
+ METODOLOGIA XP: FASES
+
+ 
+FASE 1: PLANIFICACIÓN
+Según la identificación de las historias de usuario, se priorizan y se descomponen en mini-versiones. La planificación se va a ir revisando. Cada dos semanas aproximadamente de iteración, se debe obtener un software útil, funcional, listo para probar y lanzar.
+
+
+ FASE 2: DISEÑO
+En este paso se intentará trabajar con un código sencillo, haciendo lo mínimo imprescindible para que funcione. Se obtendrá el prototipo. Además, para el diseño del software orientado a objetos, se crearán tarjetas CRC (Clase-Responsabilidad-Colaboración).
+ FASE 3: CODIFICACIÓN «DE TODOS»
+La programación aquí se hace «a dos manos», en parejas en frente del mismo ordenador. Incluso, a veces se intercambian las parejas. De esta forma, nos aseguramos que se realice un código más universal, con el que cualquier otro programador podría trabajar y entender.  Y es que deber parecer que ha sido realizado por una única persona. Así se conseguirá una programación organizada y planificada.
+ FASE 4: PRUEBAS
+Se deben realizar pruebas automáticas continuamente. Al tratarse normalmente de proyectos a corto plazo, este testeo automatizado y constante es clave. Además, el propio cliente puede hacer pruebas, proponer nuevas pruebas e ir validando las mini-versiones.
+ FASE 5: LANZAMIENTO
+Si hemos llegado a este punto, significa que hemos probado todas las historias de usuario o mini-versiones con éxito, ajustándonos a los requerimientos del clientes. Tenemos un software útil y podemos incorporarlo en el producto.
+ EL RITMO DE TRABAJO EN LA METODOLOGÍA XP DEBE SER SOSTENIBLE
+ Lo que quiere decir que todos los días deberían ser equitativos en cargas de trabajo, ni exceso de horas ni días muertos. Así, la productividad y efectividad del método se cumple. Para eso, debemos tener claro qué hacer y cuándo, para lo que se usan tableros Kanban.
+Sin embargo, la priorización es un requisito que el equipo de programadores debe establecer desde el principio.
+Para ello, existen software de gestión de proyectos con basados en tableros Kanban capaces de priorizar las actividades según lo hayamos planificado en el calendario. Además, se utilizan técnicas Scrum adaptadas al Kanban, lo que se conoce como Scrumban. Lo podemos ver fácilmente en este esquema, útil también para la metodología XP.
+ 
+
+ 
+A pesar de que la metodología XP o Programación Extrema, un método cuantitativo y cualitativo, está enfocada al mundo del desarrollo del software, lo cierto es que cada vez más empresas de diferentes sectores, empiezan a utilizar metodologías ágiles. Por su capacidad de adaptación a los cambios, por un mercado cada vez más versátil, exigente y de un crecimiento cada vez mayor. Todo ello, hace que las Agile estén aterrizando en todo tupo de oficinas, co-workings o casas.
+Principio del formulario
+
